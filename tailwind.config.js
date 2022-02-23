@@ -4,8 +4,8 @@ const colors = require('tailwindcss/colors')
 module.exports = {
   theme: {
     colors: {
-      primary: '#678983',
-      secondary: '#E6DDC4',
+      primary: '#67ab9b',
+      secondary: '#faeee5',
       black: '#181D31',
       transparent: 'transparent',
       current: 'currentColor',
